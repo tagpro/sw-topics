@@ -4,7 +4,7 @@ This website should grow and would grow. Make sure you [fork me !](https://githu
 
 I am using an outdated but easy-to-build website builder : JEKYLL. Forgive me if you think there is something better out there. You can make this more pretty if you think that would make this world a better place.
 
-BTW, before you start reading this, a note about climate change. Please go watch the documentary: [Before the flood](https://www.netflix.com/watch/80141928) and feel bad for our planet and may be contribute to sustain this planet and it's future. #climate change
+BTW, before you start reading this, a note about climate change. Please go watch the documentary: [Before the flood](https://www.netflix.com/watch/80141928) and feel bad for our planet and may be contribute to sustain this planet and it's future. #climatechange
 
 ### Front-end dev topics
 
@@ -31,6 +31,7 @@ Following are the topics to know about frontend development.
 20. Metadata and headers
 
 ### Back-end dev topics
+Following are ... about backend dev.
 1. MVC
 2. ORM
 3. CORS
@@ -53,6 +54,7 @@ Following are the topics to know about frontend development.
 20. CI/CD
 
 ### Cloud - AWS
+Following are ... about AWS.
 1. EC2
 2. Elastic Beanstalk
 3. Cloudformation
@@ -63,6 +65,7 @@ Following are the topics to know about frontend development.
 8. Route53
 
 ### HTML + CSS
+Following are ... about <html>.
 1. Grid layout
 2. Flexbox
 3. HTML5 Components
