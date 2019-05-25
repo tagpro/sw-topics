@@ -52,6 +52,7 @@ Following are ... about backend dev.
 18. Sessions
 19. Authentication
 20. CI/CD
+21. Encryption, Hashing, OAuth
 
 ### Cloud - AWS
 Following are ... about AWS.
