@@ -1,6 +1,6 @@
 ## Welcome to Single source of truth !! I mean Software Engineering (correction: Web development) topics.
 
-This website should grow and would grow. Make sure you [form me !](https://github.com/tagpro/sw-topics/) and ignore all the grammatical mistakes. 
+This website should grow and would grow. Make sure you [fork me !](https://github.com/tagpro/sw-topics/) and ignore all the grammatical mistakes. 
 
 I am using an outdated but easy-to-build website builder : JEKYLL. Forgive me if you think there is something better out there. You can make this more pretty if you think that would make this world a better place.
 
