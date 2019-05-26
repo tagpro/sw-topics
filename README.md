@@ -65,6 +65,12 @@ Following are ... about AWS.
 7. Cloudwatch
 8. Route53
 
+### Methodologies
+1. Seperation of Conern
+2. Master-Slave pattern
+3. RX
+4. 10 patterns - https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013  
+
 ### HTML + CSS
 Following are ... about <html>.
 1. Grid layout
